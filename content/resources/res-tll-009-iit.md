@@ -3,6 +3,7 @@ body: ''
 content_type: resource
 draft: false
 file: /courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022/res-tll-009-iit.png
+file_size: 1212079
 file_type: image/png
 image_metadata:
   caption: The instructor, Ankur Gupta writes out math notes on a lightboard. (Image
