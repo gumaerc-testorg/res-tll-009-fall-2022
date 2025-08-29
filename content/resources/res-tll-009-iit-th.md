@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/iit-joint-entrance-exam-preparation/res-tll-009-iit-th.png
+file: /ol-ocw-studio-app/courses/res-tll-009-iit-joint-entrance-exam-preparation-fall-2022/res-tll-009-iit-th.png
 file_size: 23026
 file_type: image/png
 image_metadata:
